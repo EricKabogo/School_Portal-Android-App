@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SchoolPortal</string>
+    <string name="school_portal">School Portal</string>
+    <string name="todo">TODO</string>
+    <string name="get_started">Get Started</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="student_register">Student Register</string>
+    <string name="admission_number">Admission Number</string>
+    <string name="register">Register</string>
+    <string name="sign_in1">Sign In</string>
+    <string name="email">Email</string>
+    <string name="login1">Login</string>
+    <string name="admission_number1">Admission Number</string>
+    <string name="password1">Password</string>
+    <string name="login2">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register3">Register</string>
+</resources>
